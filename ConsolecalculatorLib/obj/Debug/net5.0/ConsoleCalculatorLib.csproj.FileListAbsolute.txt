@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\bin\Debug\net5.0\ConsoleCalculatorLib.deps.json
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\bin\Debug\net5.0\ConsoleCalculatorLib.dll
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\bin\Debug\net5.0\ref\ConsoleCalculatorLib.dll
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\bin\Debug\net5.0\ConsoleCalculatorLib.pdb
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\obj\Debug\net5.0\ConsoleCalculatorLib.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\obj\Debug\net5.0\ConsoleCalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\obj\Debug\net5.0\ConsoleCalculatorLib.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\obj\Debug\net5.0\ConsoleCalculatorLib.AssemblyInfo.cs
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\obj\Debug\net5.0\ConsoleCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\obj\Debug\net5.0\ConsoleCalculatorLib.dll
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\obj\Debug\net5.0\ref\ConsoleCalculatorLib.dll
+C:\Users\DELL\Documents\Ashanee assets\womentechster\Backend\Console Calculator\ConsoleCalculatorLib\obj\Debug\net5.0\ConsoleCalculatorLib.pdb
